@@ -1,5 +1,8 @@
 
 ##  一款的移动端网易云音乐播放器
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sutaojie/163music.svg)](https://greenkeeper.io/)
+
 ### 包含PC管理端（admin 页面）
 
 ## 预览
